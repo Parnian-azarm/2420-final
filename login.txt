@@ -1,0 +1,10 @@
+ssh -i C:\Users\paria\.ssh\DO_key final@159.223.150.54
+
+
+ssh parnian@137.184.114.198
+
+
+
+pass for github:
+
+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
